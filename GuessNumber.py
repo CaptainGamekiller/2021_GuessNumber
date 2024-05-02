@@ -1,5 +1,4 @@
-# random is a "module模組" ，included in "standard library"
-# 一個.py 檔代表一個 module，一堆.py檔裝在一起代表一個 Package，import可導入package or just one module
+# One .py =  one module; multiple .py = one Package
 import random
 start = input('Please determine the number range start from: ')
 end = input('Please determine the number range end to: ')
